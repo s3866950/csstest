@@ -12,6 +12,15 @@ p {
   background-color: rgba(255,255,255,0.8);
   font-family: Calibri;
 }
+para1 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 120px;
+  margin-left: 120px;
+  padding: 15px;
+  background-color: rgba(100,100,100,0.8);
+  font-family: Algerian;
+}
   
 div {
   border: 0.5px solid black;
