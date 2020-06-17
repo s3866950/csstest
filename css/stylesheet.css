@@ -19,7 +19,7 @@ body {
 
 .column {
   float: left;
-  width: 33%;
+  width: 30%;
   padding: 10px;
 }
 
@@ -71,7 +71,7 @@ p.four {
   margin-right: 0px;
   margin-left: 0px;
   padding: 5px;
-  background-color: yellow;
+  background-color: blue;
 }
 
   h1.one {
