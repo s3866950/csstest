@@ -16,11 +16,10 @@ para1 {
   border: 0.5px solid black;
   margin-top: 5px;
   margin-bottom: 5px;
-  margin-right: 120px;
-  margin-left: 120px;
-  padding: 50px;
-  background-color: rgba(100,100,100,0.8);
-  font-family: Algerian;
+  margin-right:30px;
+  margin-left: 30px;
+  padding: 15px;
+  background-color: ghostwhite;
 }
   
 div {
