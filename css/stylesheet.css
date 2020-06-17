@@ -19,17 +19,14 @@ body {
 
 .column {
   float: left;
+  width: 33.33%;
   padding: 10px;
 }
 
-
-.column.side {
-  width: 33%;
-}
-
-
-.column.middle {
-  width: 34%;
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 background-image: url();
@@ -54,7 +51,7 @@ p.two {
   margin-right:30px;
   margin-left: 30px;
   padding: 15px;
-  background-color: red;
+  background-color: blue;
 }
 
 p.three {
