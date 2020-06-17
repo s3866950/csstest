@@ -13,6 +13,7 @@ p {
   font-family: Calibri;
 }
 para1 {
+  border: 0.5px solid black;
   margin-top: 5px;
   margin-bottom: 5px;
   margin-right: 120px;
