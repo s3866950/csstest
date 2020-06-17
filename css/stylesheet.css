@@ -8,6 +8,7 @@ body {
   margin: 0;
 }
 
+
 .header {
   background-color: #f1f1f1;
   padding: 20px;
@@ -15,30 +16,22 @@ body {
 }
 
 
+
 .column {
   float: left;
   padding: 10px;
 }
 
+
 .column.side {
   width: 33%;
 }
+
 
 .column.middle {
   width: 34%;
 }
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-{
-  .column.side, .column.middle {
-    width: 100%;
-  }
-}
 
 body {
   background-image: url();
