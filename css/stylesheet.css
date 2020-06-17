@@ -6,6 +6,34 @@
   text-align: center;
 } 
 
+.column {
+  float: left;
+  padding: 10px;
+}
+
+
+.column.side {
+  width: 33%;
+}
+
+
+.column.middle {
+  width: 34%;
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+@media screen and (max-width: 600px) {
+  .column.side, .column.middle {
+    width: 100%;
+  }
+
 body {
   background-image: url();
   background-repeat: repeat-x;
