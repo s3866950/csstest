@@ -1,10 +1,17 @@
 <style>
+
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+} 
+
 body {
   background-image: url();
   background-repeat: repeat-x;
 }
 
-div {
+p.one {
   border: 0.5px solid black;
   margin-top: 5px;
   margin-bottom: 5px;
@@ -14,7 +21,7 @@ div {
   background-color: ghostwhite;
 }
 
-p.one {
+p.two {
   text-align: center
   border: 0.5px solid black;
   margin-top: 5px;
@@ -25,7 +32,7 @@ p.one {
   background-color: white;
 }
 
-p.two {
+p.three {
   border: 0.5px solid black;
   margin-top: 5px;
   margin-bottom: 5px;
@@ -35,7 +42,7 @@ p.two {
   background-color: white;
 }
 
-p.three {
+p.four {
   border: 0.5px solid black;
   margin-top: 5px;
   margin-bottom: 5px;
